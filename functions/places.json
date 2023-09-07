@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Međugorje",
+    "lat": 43.19413351496246,
+    "lng": 17.677018096160097,
+    "tags": [
+      "pilgrimage",
+      "religion",
+      "catholic"
+    ]
+  },
+  {
+    "name": "Samostan Tolisa",
+    "lat": 45.02499685859897,
+    "lng": 18.663829111633728,
+    "tags": [
+      "monastery",
+      "catholic",
+      "franciscan",
+      "religion"
+    ]
+  },
+  {
+    "name": "Kozara",
+    "lat": 45.017897837621746,
+    "lng": 16.907867835111947,
+    "tags": [
+      "historical monument",
+      "national park",
+      "mountain",
+      "hiking"
+    ]
+  }
+]

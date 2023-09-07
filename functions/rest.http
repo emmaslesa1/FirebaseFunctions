@@ -1,0 +1,16 @@
+GET https://api-ler72jxfqa-uc.a.run.app/
+
+###
+POST https://api-ler72jxfqa-uc.a.run.app/
+Content-Type: application/json
+
+{
+    "name": "Emina Maslesa",
+    "college": "ETF"
+}
+
+###
+DELETE https://api-ler72jxfqa-uc.a.run.app/
+
+###
+PUT https://api-ler72jxfqa-uc.a.run.app/
